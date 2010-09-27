@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Stecapp::Application.config.secret_token = 'af38a45ce7ad3296bf42f3009db5278488e550a18f4c6dd89b95987ec4b0d1e89fb3c1491036720c548aa8275e83bbce0ef621033b8aff11d6d7039d3f667956'
+Stecapp::Application.config.secret_token = 'd740b9c7fb05a6ad293a7eb512d1563272031ea5e5648aca82ea794673c04ac942f873839382d3c9471e15d9873e434bb4f2d2d2785c5f212ce388208742a6fb'
